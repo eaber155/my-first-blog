@@ -14,7 +14,7 @@
    <div class="nav" id="nav">
    
    </div>
-  <div class="left-side" id="left_side"></div>
+  <div class="left-side" id="left_side"></div>//I have added a comment
  <div class="rightside" id="right_side">
 <?php
 include'script/db.php';
